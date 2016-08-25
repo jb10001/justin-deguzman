@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {background: #F8F8F8; 
+font-family: Arial, Gotham, "Helvetica Neue", Helvetica, sans-serif
+}
+
+#header {background: #FFEAAD;
+}
+
+#content {background: #D14334;
+}
+
+#footer {background: #B3E099;
+}
+
+#content2 {background: #028F76;
+}
+
+
